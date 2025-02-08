@@ -12,7 +12,7 @@ export default function Landi() {
     "I would have composed every masterpiece there is and will ever be 😎",
     "Give me a deep kiss tomorrow will yah? 😇",
     "I think you clicked the wrong button baby 😇",
-    "Uhm.. That is not the right button baby 😊",
+    "Uhm.. That is not the right button babyy 😊",
     "... I said I want a kiss tomorrow baby. A deep one 😙",
     "Please? Me need a kiss badly 😔",
     "Please reconsider baby ☹️",
